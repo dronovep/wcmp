@@ -1,0 +1,8 @@
+{
+    "name": "nerevarino/wcmp.octadev.ru",
+    "type": "project",
+    "license": "LGPL",
+    "require": {
+        "symfony/symfony": "^5.2"
+    }
+}
